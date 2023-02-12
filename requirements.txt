@@ -1,0 +1,12 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+kaggle
+gdown
+wandb
+numpy==1.20.1
+torch
+scipy==1.6.1
+torchvision
+torchtext
+torchgeometry
+torchmetrics
+configparser

@@ -1,0 +1,11 @@
+__pycache__/
+__pycache__/*.pyc
+*/__pycache__/*.pyc
+.vscode/*
+build/*
+dist/*
+htorch_giorgiozannini.egg-info/*
+README.md
+htmlcov/*
+*/data/*
+.idea/*
